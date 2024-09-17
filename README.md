@@ -27,4 +27,4 @@ _Frontend_: HTML
           CSS
           JavaScript
 __Contact__:-
-If you have any questions or feedback, please reach out to [Mail](chandankumarm10404@gmail.com).
+If you have any questions or feedback, please reach out to [chandankumar10404@gmail.com]
